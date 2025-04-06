@@ -111,10 +111,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
 
-  <!-- Express (no official icon, use text or custom icon) -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="30" alt="express logo" />
-  <img width="12" />
-
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
