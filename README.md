@@ -6,7 +6,7 @@
 
 ---
 
-### About Me
+### ℹ️About Me
 
 - *AI/ML Enthusiast*  
 - Pre-final year B.Tech student majoring in *Artificial Intelligence and Data Science*  
@@ -15,7 +15,7 @@
 
 ---
 
-### What I Love
+### 💗What I Love
 
 - Machine Learning & Deep Learning  
 - Data Science & Big Data Analytics  
@@ -31,7 +31,7 @@
 
 ---
 
-### Tools & Technologies
+### 🔧Tools & Technologies
 
 <div align="left">
   <!-- Row 1 -->
