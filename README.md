@@ -55,9 +55,8 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif" />
-</p>
+<img align="left" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" width="150" alt="Coding gif" />
+
 
 
 ###
