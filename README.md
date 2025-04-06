@@ -87,7 +87,7 @@
 ### 🍂 Coding and Dev Vibes
 <div align="center"> 
   <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZnZTV3dXU1bHZvYW14eTgzd20wbW91ZDdxa3V1MGp0NHg1bmpyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUYef6xz94ZvW/giphy.gif" alt="lana gif" /> 
-<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8wbjRsbHh6aWFzbWxlZXd2bGpuNDNjNjl5dXBzZG9sazR0M2lsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif" height="200" width="300" alt="coding gif" /> 
+<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8wbjRsbHh6aWFzbWxlZXd2bGpuNDNjNjl5dXBzZG9sazR0M2lsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif" height="200" width="400" alt="coding gif" /> 
 </div>
 
 ### 🖇️Connect with Me
