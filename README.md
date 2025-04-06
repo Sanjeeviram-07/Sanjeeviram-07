@@ -26,7 +26,7 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sanjeevi-ram-274947298/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-informational)](https://yourportfolio.com)  
 
 ---
@@ -85,9 +85,8 @@
 ###
 
 <br clear="both">
-<p align="center">
-  <img src="https://github.com/Sanjeeviram-07/Sanjeeviram-07/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<img src="https://github.com/Sanjeeviram-07/Sanjeeviram-07/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
 
 
 
