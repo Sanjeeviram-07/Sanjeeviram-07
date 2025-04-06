@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span id="name">Sanjeevi Ram</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=B.Tech+in+AI+%26+Data+Science; Passionate+about+AI+%7C+ML+%7C+Data+Science;Future+AI+Engineer+in+the+making!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=B.Tech+in+AI+%26+Data+Science;Passionate+about+AI+%7C+ML+%7C+Data+Science;Future+AI+Engineer+in+the+making!" alt="Typing SVG" />
 </p>
 
 ---
