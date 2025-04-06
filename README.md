@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Firefox&label=&color=4B0082&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
 </a> 
 
+---
+
 ### 🔧Tools & Technologies
 
 <div align="left">
