@@ -84,33 +84,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeeviram-07&show_icons=true&theme=radical" />
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeeviram-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeviram-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8wbjRsbHh6aWFzbWxlZXd2bGpuNDNjNjl5dXBzZG9sazR0M2lsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif" height="180" width="300" alt="anim gif" />
-
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" width="50" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" width="50" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" width="50" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" width="50" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" width="50" alt="linkedin logo"  />
-</div>
-
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjeeviram-07&show_icons=true&theme=radical" height="180" alt="GitHub Stats" /> </div> <br/> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjeeviram-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeviram-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> </div>
+🧠 Coding & Dev Vibes
+<div align="center"> <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="snake gif" /> <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8wbjRsbHh6aWFzbWxlZXd2bGpuNDNjNjl5dXBzZG9sazR0M2lsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif" height="180" width="300" alt="coding gif" /> </div>
+🔗 Connect with Me
+<div align="center"> <a href="https://youtube.com/"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="YouTube" /></a> <a href="https://instagram.com/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" /></a> <a href="https://discord.com/"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Discord" /></a> <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" /></a> </div>
 ###
 
 <br clear="both">
