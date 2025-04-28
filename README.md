@@ -27,7 +27,7 @@
 
 ### 👔Portfolio
  
-<a href="https://yourportfolio.com">
+<a href="https://sanjeeviram-07.github.io/Portfolio/">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Firefox&label=&color=4B0082&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
 </a> 
 
