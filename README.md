@@ -9,7 +9,7 @@
 ### ℹ️About Me
 
 - *AI/ML Enthusiast*  
-- Pre-final year B.Tech student majoring in *Artificial Intelligence and Data Science*  
+- Final year B.Tech student majoring in *Artificial Intelligence and Data Science*  
 - Building intelligent systems that solve real-world problems  
 - Loves exploring data, training models, and building cool stuff with code  
 
