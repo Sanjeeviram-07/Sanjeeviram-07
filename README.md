@@ -1,87 +1,114 @@
-<h1 align="center">Hi there, I'm <span id="name">Sanjeevi Ram</span>!</h1>
+<h1 align="center">Hi there, I'm <span id="name">Sanjeevi Ram</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=B.Tech+in+AI+%26+Data+Science;Passionate+about+AI+%7C+ML+%7C+Data+Science;Future+AI+Engineer+in+the+making!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Cloud+%26+AI+Engineer+in+the+Making;B.Tech+AI+%26+Data+Science;Building+Scalable+AI+Systems+on+Cloud;DevOps+%7C+MLOps+%7C+Data+Driven+Innovation" alt="Typing SVG" />
 </p>
 
 ---
 
-### ℹ️About Me
+## 🚀 About Me
 
-- *AI/ML Enthusiast*  
-- Final year B.Tech student majoring in *Artificial Intelligence and Data Science*  
-- Building intelligent systems that solve real-world problems  
-- Loves exploring data, training models, and building cool stuff with code  
+- 🎓 Final Year B.Tech in **Artificial Intelligence & Data Science**
+- ☁️ Aspiring **Cloud + AI Engineer**
+- 🤖 Passionate about building scalable AI systems using Cloud & DevOps
+- 🔍 Interested in MLOps, Distributed Systems & Intelligent Automation
+- 🧠 Strong foundation in Machine Learning, Data Engineering & Backend Development
+
+I love transforming raw data into intelligent solutions and deploying them on cloud platforms to solve real-world problems at scale.
 
 ---
 
-### 💗What I Love
+## 💡 What I’m Focused On
 
-- Machine Learning & Deep Learning  
-- Data Science & Big Data Analytics  
-- Problem-solving with Python  
-- Exploring tech trends and AI ethics
-- Also loves exploring and reviewing tech gadgets  
+- ☁️ Cloud Computing (AWS, Containers, Kubernetes)
+- 🤖 Machine Learning & Deep Learning
+- 🔁 DevOps & CI/CD Automation
+- 📦 Dockerized AI Applications
+- 📊 Data Pipelines & Big Data Analytics
+- 🔐 Scalable & Secure System Design
+
 ---
 
-### 🔧Tools & Technologies
+## 🛠️ Cloud | AI | DevOps Tech Stack
 
 <div align="left">
-  <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/000000/ai.png" height="30" alt="nlp logo" />
-</div>
 
-<br/>
+### ☁️ Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+<img width="12" />
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" height="35"/>
 
-<div align="left">
-  <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
+<br/><br/>
+
+### 🤖 AI & Data Science
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" />
+<img width="12" />
+<img src="https://img.icons8.com/fluency/48/000000/ai.png" height="35" />
+
+<br/><br/>
+
+### 💻 Programming
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+
 </div>
 
 ---
 
-### 🖇️Connect with Me
-<div align="center"> <a href="https://www.youtube.com/@sanjuthelordgamer5588"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="YouTube" /></a> <a href="https://instagram.com/sanju_unique_07"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" /></a> <a href="https://discord.com/LOVERBOY_S3"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Discord" /></a> <a href="mailto:sanjeeviram422@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/sanjeevi-ram-274947298/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" /></a> </div>
+## 🧠 Current Mission
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeeviram-07/Sanjeeviram-07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeeviram-07/Sanjeeviram-07/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sanjeeviram-07/Sanjeeviram-07/output/github-snake.svg" />
-</picture>
+🔹 Mastering Cloud Engineering  
+🔹 Building AI systems with scalable cloud infrastructure  
+🔹 Learning MLOps & Production ML pipelines  
+🔹 Preparing for Cloud & AI Engineer roles  
 
+---
 
+## 🌍 Connect With Me
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/sanjeevi-ram-274947298/">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
+</a>
+
+<a href="mailto:sanjeeviram422@gmail.com">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" />
+</a>
+
+<a href="https://instagram.com/sanju_unique_07">
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="40" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+⚡ “Design Intelligent Systems. Deploy at Scale. Automate Everything.” ⚡
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sanjeeviram-07/Sanjeeviram-07/output/github-snake.svg" />
+</p>
